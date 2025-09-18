@@ -1,7 +1,7 @@
 package com.primeiroprojeto.course.enums;
 
 public enum OrderStatus {
-
+//Enum para os Status Do pedido.
     WAITING_PAYMENT(1),
     PAID(2),
     SHIPPED(3),
