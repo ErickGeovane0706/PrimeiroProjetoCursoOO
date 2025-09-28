@@ -23,7 +23,7 @@ public class User implements Serializable {
     private List<Order> orders = new ArrayList<>();
     //Construtores
     public User() {}
-    public User(Long id,String nome, String email, String phone, String password) {
+    public User(Long id,String name, String email, String phone, String password) {
         this.id = id;
         this.nome = nome;
         this.email = email;
