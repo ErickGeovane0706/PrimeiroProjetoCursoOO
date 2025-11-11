@@ -1,7 +1,7 @@
 # 🌟 Spring Boot E-commerce – Projeto de Portfólio
 
 ## Sobre o Projeto
-Este projeto é um **sistema de e-commerce completo**, desenvolvido como demonstração de habilidades em **desenvolvimento backend com Java e Spring Boot**.  
+Este projeto é um **sistema de e-commerce**, desenvolvido como demonstração de habilidades em **desenvolvimento backend com Java e Spring Boot**.  
 
 Ele foi construído para mostrar **organização, boas práticas e domínio de tecnologias essenciais** para o mercado de tecnologia, incluindo:
 
